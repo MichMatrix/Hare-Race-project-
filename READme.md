@@ -1,5 +1,8 @@
 # Race of Hares Project
 
+
+## Introduction
+
 This project is a hare race using processes and threads. The first thread/process
 whoever reaches the entered distance wins.
 
@@ -17,25 +20,25 @@ Execution example:
     hare 2 jumped 31cm (total: 1002)
     hare 2 won!
 
-# Requirements
+## Requirements
 A computer or notebook/macbook with the use of a linux terminal using a linux virtual machine is required, AWS with linux system installed or in windows/mac system using linux command terminal WSL.
 
-# Installation
+## Installation
 
-In the windows store you can download WSL Ubuntu to use the terminal, download the program and access it through the terminal.For more information about the download click here <https://ubuntu.com/wsl>.
+In the windows store you can download WSL Ubuntu to use the terminal, download the program and access it through the terminal.For more information about the download click [here](https://ubuntu.com/wsl).
 
-A C compiler must also be installed. For more information click here <https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/>.
+A C compiler must also be installed. For more information click [here](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/).
 
-# Running the tests
+## Running the tests
 
 You should compile the program as follows: gcc rice.c -o rice -pthread
 
 It's runned the tests on defined parameters.
 
-# Development
+## Development
 
 It was developed using a virtual machine with a linux operating system, and the VS code program was installed in order to develop the code.
 
-# Author
+## Author
 
 Michel Adelino
