@@ -31,7 +31,9 @@ A C compiler must also be installed. For more information click [here](https://t
 
 ## Running the tests
 
-You should compile the program as follows: gcc rice.c -o rice -pthread
+You should compile the program as follows: 
+
+    $ gcc rice.c -o rice -pthread
 
 It's runned the tests on defined parameters.
 
@@ -41,4 +43,4 @@ It was developed using a virtual machine with a linux operating system, and the 
 
 ## Author
 
-Michel Adelino
+Michel Adelino © 2022
